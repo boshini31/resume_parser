@@ -5,3 +5,4 @@ PyPDF2
 transformers
 sentence-transformers
 gunicorn
+flask-cors
