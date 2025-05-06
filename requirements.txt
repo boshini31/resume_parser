@@ -1,4 +1,7 @@
-Flask==2.3.2
+flask
 pandas
+python-docx
+PyPDF2
 transformers
-torch
+sentence-transformers
+gunicorn
